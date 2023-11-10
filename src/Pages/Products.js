@@ -14,53 +14,53 @@ export const PRODUCTS=[
             id:1,
             icon:iphone,
             name:"Iphone",
-            price:"$500"
+            price:"500"
         },
         {
             id:2,
             icon:samsung,
             name:"Samsung",
-            price:"$499"
+            price:"499"
         },
         {
             id:3,
             icon:pixel,
             name:"Pixel",
-            price:"$399"
+            price:"399"
         },
         {
             id:4,
             icon:asus,
             name:"Asus",
-            price:"$599"
+            price:"599"
         },
         {
             id:5,
             icon:hp,
             name:"HP",
-            price:"$399"
+            price:"399"
         },
         {
             id:6,
             icon:lg,
             name:"LG",
-            price:"$200"
+            price:"200"
         },
         {
             id:7,
             icon:boat,
             name:"BoAt",
-            price:"$49"
+            price:"49"
         },
         {
             id:8,
             icon:fastrack,
             name:"Fastrack",
-            price:"$99"
+            price:"99"
         },
         {
             id:9,
             icon:hoodie,
             name:"Hoodie",
-            price:"$29"
+            price:"29"
         }]
